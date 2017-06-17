@@ -1,5 +1,11 @@
 Read the documentation in qemu-doc.html.
 
-URL: https://en.wikibooks.org/wiki/QEMU/QEMU_Hello_World:_Installing_QEMU_and_getting_it_up_and_running
+URL: 
+1. qemu维基百科
+https://en.wikibooks.org/wiki/QEMU/QEMU_Hello_World:_Installing_QEMU_and_getting_it_up_and_running
+2. mini2440 qemu下载git链接
+http://repo.or.cz/w/qemu/mini2440.git
+3. configure下载链接
+http://forum.gns3.net/topic6494.html
 
 Fabrice Bellard.
