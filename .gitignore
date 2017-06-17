@@ -40,3 +40,4 @@ patches
 pc-bios/bios-pq/status
 pc-bios/vgabios-pq/status
 .stgit-*
+build
