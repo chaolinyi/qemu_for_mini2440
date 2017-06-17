@@ -1,6 +1,14 @@
 Read the documentation in qemu-doc.html.
 
-URL: 
+编译步骤：
+1. mkdir build
+2. cd build
+3. ../configure（配置所有类型） 
+   ../configure --target-list=i386-softmmu（i386目标） 
+   ../configure --target-list=arm-softmmu（arm目标）
+4. make
+
+参考链接URL: 
 1. qemu维基百科
 https://en.wikibooks.org/wiki/QEMU/QEMU_Hello_World:_Installing_QEMU_and_getting_it_up_and_running
 2. mini2440 qemu下载git链接
